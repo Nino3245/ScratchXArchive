@@ -1,0 +1,3 @@
+clarifaiGIT.js was grabbed from https://github.com/eesh/clarifai-scratch/blob/master/clarifai.js
+and appears to just grab clarifai.js from https://eesh.github.io/scratch-test/clarifai.js
+so just use clarifai.js
